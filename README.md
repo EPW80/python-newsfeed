@@ -1,6 +1,5 @@
-# Python Newsfeed
-The Just Tech News application refactored to use Python instead of JavaScript on the back end.
+# Just-Tech-News
 
+In this project, we'll use Python as the basis for a web server. Instead of building it from scratch, we'll refactor the back end of an app that was originally built using Node.js. The app, called Just Tech News, lets users submit links to tech-related articles, comment on other users
 
-## Deployed Application
-This application is deployed at 
+![](./app/tech.png)
