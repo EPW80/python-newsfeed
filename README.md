@@ -4,8 +4,8 @@ In this project, we'll use Python as the basis for a web server. Instead of buil
 
 ## Build:
 
- * ![Python](https://www.python.org/)
- * ![JavaScript](https://www.javascript.com/)
+ * [Python](https://www.python.org/)
+ * [JavaScript](https://www.javascript.com/)
 
 ## screenshot:
 
