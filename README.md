@@ -14,5 +14,4 @@ In this project, we'll use Python as the basis for a web server. Instead of buil
 ![](./app/tech2.png)
 
 ## Contributor
-
 Erik P. Williams
